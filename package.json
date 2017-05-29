@@ -1,0 +1,19 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.5",
+    "graphql": "^0.9.6",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.10.2"
+  }
+}
